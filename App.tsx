@@ -162,7 +162,7 @@ export default function App() {
           <div className="container hero__grid">
             <div className="hero__text">
               <h1>আপনার স্টাইল, আমাদের কালেকশন।</h1>
-              <p>ট্রেন্ডিং ফ্যাশন আইটেম—টিশার্ট, ড্রেস, জিন্স, এক্সেসরিজ। এখনই দেখুন।</p>
+              <p>ট্রেন্ডিং ফ্যাশন আইটেম—টিশার্ট, ড্রেস, জিন্স, এক্সেসরিজ। এখনই দেখুন আমাদের এক্সক্লুসিভ কালেকশন এবং সেরা দামে কিনুন।</p>
               <div className="hero__cta">
                 <a className="btn btn--primary" href="#products">Shop Now</a>
                 <a className="btn btn--ghost" href="#new">See New Arrivals</a>
@@ -249,7 +249,7 @@ export default function App() {
             <div>
               <h2>About Fashion Store</h2>
               <p className="muted">
-                আমরা আপনাদের জন্য এমন সব ফ্যাশন বাছাই করি—যেগুলো দেখতে সুন্দর, মানে ভালো এবং দৈনন্দিন স্টাইলে মানানসই।
+                আমরা আপনাদের জন্য এমন সব ফ্যাশন বাছাই করি—যেগুলো দেখতে সুন্দর, মানে উন্নত এবং দামে সাশ্রয়ী। প্রতিটি পণ্য যত্ন সহকারে নির্বাচিত এবং মান পরীক্ষিত।
               </p>
               <ul className="bullets">
                 <li>Quality checked products</li>
@@ -335,7 +335,7 @@ export default function App() {
               animate={{ x: 0 }}
               exit={{ x: "100%" }}
               transition={{ type: "spring", damping: 25, stiffness: 200 }}
-              style={{ display: "flex" }} // Override inline style from CSS if needed, though index.css hide/show logic is handled via React state now
+              style={{ display: "flex" }}
             >
               <div className="cart__head">
                 <div>
