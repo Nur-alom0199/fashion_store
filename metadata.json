@@ -1,0 +1,6 @@
+{
+  "name": "Fashion Store",
+  "description": "A modern fashion e-commerce storefront with trending items, cart functionality, and Google authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
